@@ -1,0 +1,3 @@
+dj_db_1
+postgres
+A23051975a
